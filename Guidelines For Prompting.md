@@ -102,3 +102,16 @@ print(response)
 If you give a model a complex task or problem to solve in a short amount of time, it make incorrect assumptions when trying to complete in a short time space, so you must give it enough time for it to think.
 
 <ins> Tactic 1:  </ins>
+
+
+
+### Limitations
+
+<ins> Hallucinations </ins>
+
+Makes statments that sound plausible but are not true
+
+<ins> Reducing Hallucinations </ins>
+
+First find relevant information, then asnwer the question based on the relevant information.
+
